@@ -4,12 +4,12 @@
 ![](images/contacts.JPG)
 
 
-![](images/campaign.JPG)
+![](images/Campaign.JPG)
 
 
 ![](images/category.JPG)
 
 
-![](images/subcategory.JPG)
+![](images/subcat.JPG)
 
 
